@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:03:42.889243
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:56
 #+TITLE: 道安法師念佛讚文
 #+PROPERTY: CBETA_ID T85n2830B
 #+PROPERTY: ID KR6p0140
